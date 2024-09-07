@@ -1,0 +1,10 @@
+.card-img-top{
+    background-color: var(--gray);
+}
+
+.color-brand{
+    color: var( --brand-color) !important;
+}
+.fs-6{
+    font-size: 15px;
+}
